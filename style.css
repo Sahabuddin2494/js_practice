@@ -1,0 +1,32 @@
+.main_one_start ul{
+
+}
+.main_one_start ul li{
+    display:inline-block;
+    padding: 10px;
+}
+
+
+/* 
+@media (min-width:992px) and (max-width:1199px){
+    .main_one_start ul{
+
+    }
+    .main_one_start ul li{
+        display:inline-block;
+    }
+}
+@media (min-width:576px) and (max-width:991px){
+    .main_one_start ul{
+ display: none;
+    }
+    .main_one_start ul li{
+        display:block;
+           }
+}
+
+@media (max-width:575px){
+    .main_one_start ul{
+        display: none;
+           }
+} */
